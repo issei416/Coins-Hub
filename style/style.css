@@ -1,0 +1,14 @@
+.search-input {
+    border:none;
+    outline: none;
+    font-size: 1.5rem;
+}
+
+.input-field img {
+    height:30px;
+}
+
+.marketData {
+    max-height: 600px;
+    overflow-y: scroll;
+}
